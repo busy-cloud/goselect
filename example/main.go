@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/creack/goselect"
+	"github.com/busy-cloud/goselect"
 )
 
 type fder interface {
